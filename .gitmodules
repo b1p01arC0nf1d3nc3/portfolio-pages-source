@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/b1p01arC0nf1d3nc3/portfolio-pages-public.git
