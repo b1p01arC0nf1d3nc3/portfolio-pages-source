@@ -8,7 +8,8 @@ draft = false
 
 Backdoors and Breaches is a fantastic incident response activity that challenges participants to solve a multi-faceted cyber incident by making decisions and watching everything go wrong (well, at least some of the time).
 
-The activity if free to try and is made by the fabulous folks over at Blackhills Security.
+The activity if free to try and is made by the fabulous folks over at Blackhills Security. -LINK here-
+![Example image](/static/honkta.png)
 
 # Rules: 
 - Work as a team to discover all 4 cards to respond to the incident.
@@ -17,4 +18,4 @@ The activity if free to try and is made by the fabulous folks over at Blackhills
 - Roll for a successful action. 11 and over is a success. 3-round cooldown after using a card.
 - Inject on 1, 20, and 3 straight failures.
 - After a failure, ask for why that might have happened.
-- After the game, go through and assess if what happened was realistic. Yes, No, or Maybe. Always clarify Maybe.
+- After the game, go through and assess if what happened was realistic. Yes, No, or Maybe. **Always** clarify Maybe.
