@@ -1,7 +1,7 @@
 +++
-title = 'Thehive'
+title = 'TheHive'
 date = 2023-12-09T19:04:27-04:00
-draft = true
+draft = false
 +++
 
 During a work term, I was given the chance to build out some open source tools that can be used to create a streamlined security operations center. It was a very valuable experience and helped me develop a better understanding of tooling available to organizations that may have resource limitations. 

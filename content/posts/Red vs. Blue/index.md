@@ -1,5 +1,5 @@
 +++
-title = 'Redvsblue'
+title = 'Red vs. Blue'
 date = 2023-12-09T19:05:03-04:00
 draft = false
 +++

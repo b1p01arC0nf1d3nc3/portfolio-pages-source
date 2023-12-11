@@ -1,5 +1,5 @@
 +++
-title = 'Bandb'
+title = 'Backdoors and Breaches'
 date = 2023-12-09T19:04:41-04:00
 draft = false
 +++
@@ -9,7 +9,7 @@ draft = false
 Backdoors and Breaches is a fantastic incident response activity that challenges participants to solve a multi-faceted cyber incident by making decisions and watching everything go wrong (well, at least some of the time).
 
 The activity if free to try and is made by the fabulous folks over at Blackhills Security. -LINK here-
-![Example image](/static/honkta.png)
+![Example image](featurehonkta.jpg "Adding flavor with customized companies helps players become more involved in the scenario while also providing scope for the activity.")
 
 # Rules: 
 - Work as a team to discover all 4 cards to respond to the incident.
