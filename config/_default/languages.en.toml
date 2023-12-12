@@ -8,14 +8,14 @@ title = "b1p01arc0nf1d3nc3 - Portfolio"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/pgoose.png"
-  secondaryLogo = "img/secondary-logo.png"
+  #logo = "img/pgoose.png"
+  #secondaryLogo = "img/secondary-logo.png"
   description = "Testing a description"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
     name = "b1p01arc0nf1d3nc3"
-    image = "img/home.jpg"
+    image = "img/bipolcon.png"
     headline = "Portfolio"
     #bio = "Random bio info"
 #   links = [
